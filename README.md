@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Tomas030284/Tomas030284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
