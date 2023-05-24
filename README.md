@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)](https://github.com/Tomas030284/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff&style=flat-square&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
-[![React-Native](https://img.shields.io/badge/-React%E2%80%93Native-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-%23E44D27?style=flat-square&logo=tailwindCss&logoColor=ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
