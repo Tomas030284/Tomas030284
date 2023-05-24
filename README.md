@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 [![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
+[![SUPABASE](https://img.shields.io/badge/-SUPABASE-007ACC?style=flat-square&logo=supabase&logoColor=ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
-[![SUPABASE](https://img.shields.io/badge/-SUPABASE-007ACC?style=flat-square&logo=supabase&logoColor=ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 
 
 
