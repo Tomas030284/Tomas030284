@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 **Contact with me** 📝 </br></br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ing-tomas-mogrovejo-acosta/)](https://www.linkedin.com/in/ing-tomas-mogrovejo-acosta/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomas.mogrovejo.acosta@gmail.com)](mailto:tomas.mogrovejo.acosta@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/51963313889)](https://wa.me/51963313889)
+
 <br />
 
 ---
