@@ -66,4 +66,6 @@ Here are some ideas to get you started:
 
 ---
 
+## Visitor Count 👀
+
 ![Visitor Count](https://profile-counter.glitch.me/Tomas030284/count.svg)
