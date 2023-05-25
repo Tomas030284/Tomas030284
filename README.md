@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas030284&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=E0D145&hide_border=true" alt="Tomas030284" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas030284&show_icons=true&locale=en&layout=compact&bg_color=F3F6F9&text_color=000000&title_color=0C66B5&hide_border=true" alt="Tomas030284" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tomas030284&show_icons=true&locale=en&bg_color=1c1917&text_color=ffffff&hide_border=true&icon_color=E0D145&title_color=E0D145" alt="Tomas030284" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tomas030284&show_icons=true&locale=en&bg_color=F3F6F9&text_color=000000&hide_border=true&icon_color=E0D145&title_color=0C66B5" alt="Tomas030284" /></p>
 
 ---
 
