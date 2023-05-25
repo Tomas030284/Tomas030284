@@ -76,3 +76,7 @@ Here are some ideas to get you started:
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Tomas030284"><img src="https://github-readme-stats.vercel.app/api?username=Tomas030284&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tomás GitHub stats" /></a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas030284&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&hide_border=true" alt="Tomas030284" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tomas030284&show_icons=true&locale=en" alt="Tomas030284" /></p>
