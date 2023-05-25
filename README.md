@@ -60,8 +60,13 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&link=https://github.com/Tomas030284/)](https://github.com/Tomas030284/)
 
+### Badges
 
+<b>My GitHub Stats</b>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas030284&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=E0D145&hide_border=true" alt="Tomas030284" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tomas030284&show_icons=true&locale=en&bg_color=1c1917&text_color=ffffff&hide_border=true&icon_color=E0D145&title_color=E0D145" alt="Tomas030284" /></p>
 
 ---
 
@@ -70,11 +75,3 @@ Here are some ideas to get you started:
 </div> 
 
 ---
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas030284&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=E0D145&hide_border=true" alt="Tomas030284" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tomas030284&show_icons=true&locale=en&bg_color=1c1917&text_color=ffffff&hide_border=true&icon_color=E0D145&title_color=E0D145" alt="Tomas030284" /></p>
