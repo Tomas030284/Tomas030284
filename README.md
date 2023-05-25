@@ -23,8 +23,11 @@ Here are some ideas to get you started:
     - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
     - 💪🏼 Future Goals: Learn more technologies - work in a team 💪🏼</br>
     - ⚡ Fun fact: Enjoy family time, travel, music, movies.</br>
-    
  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustindev&label=Profile%20views&color=0e75b6&style=flat" alt="gustindev" /> </p>
+
+</br>
+
 
 ---
 **Contact with me** 📝 </br></br>
