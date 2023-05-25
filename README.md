@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     - 💪🏼 Future Goals: Learn more technologies - work in a team 💪🏼</br>
     - ⚡ Fun fact: Enjoy family time, travel, music, movies.</br>
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustindev&label=Profile%20views&color=0e75b6&style=flat" alt="gustindev" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tomas030284&label=Profile%20views&color=0e75b6&style=flat" alt="Tomas030284" /> </p>
 
 </br>
 
