@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas030284&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&hide_border=true" alt="Tomas030284" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tomas030284&show_icons=true&locale=en" alt="Tomas030284" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tomas030284&show_icons=true&locale=en&bg_color=1c1917&text_color=ffffff&hide_border=true" alt="Tomas030284" /></p>
