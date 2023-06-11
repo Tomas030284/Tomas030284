@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   **Talking about Personal Stuffs:** </br>
     - ⭐ I'm a systems engineer with more than 15 years of experience in the IT world.</br>
-    - 👨🏻‍💻 I’m currently working on web development technologies like JavaScript, Nextjs, React , Redux, etc.</br>
+    - 👨🏻‍💻 I’m currently working on web development technologies like JavaScript, TypeScript, Nextjs, React , Redux, etc.</br>
     - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
     - 💪🏼 Future Goals: Learn more technologies - work in a team 💪🏼</br>
     - ⚡ Fun fact: Enjoy family time, travel, music, movies.</br>
